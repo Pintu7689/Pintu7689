@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Pintu 👋
 
-<!--
-**Pintu7689/Pintu7689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** · SQL · Python · Power BI · Excel  
+Turning raw data into decisions that matter.
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/pintu-meena/) • [Gmail](mailto:Pintumeena.nita@gmail.com) • [GitHub](https://github.com/Pintu7689)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+I'm a Data Analyst with hands-on experience in **SQL, Python, Power BI, and Excel** — building the pipelines, dashboards, and reports that businesses rely on.
+
+I work best when the problem is messy and the stakes are real: owning the full pipeline from raw data to business recommendation, not just building charts.
+
+---
+
+## Tech Stack
+
+**Databases & Query**
+ `MySQL`
+
+**Data Analysis**
+`Python` `Pandas` `NumPy` `Excel` `Matplotlib`
+
+**Visualization**
+`Power BI` `Tableau` `Matplotlib`
+
+---
+
+## 📍 Location
+Dausa, Rajasthan, India
+
+## 📫 Reach Me
+- Email: youremail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pintu-meena/
